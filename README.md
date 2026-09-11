@@ -1,3 +1,3 @@
 ## Hi there 👋
-the names big
+the names ci
 and I made this for my partner:)
